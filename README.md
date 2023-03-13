@@ -85,7 +85,7 @@ using Logistic Regression Learner node and Logistic Regression Predictor node.
 using Random Forest Learner node and Random Forest Predictor node.
 
 
-*7.score of each classification model*
+*7.score of each classification model*<br>
 -Naive Bayes model
 <p float="left">
  <img src="img/naive bayes.png" alt="image" width="40%"/> 
@@ -104,7 +104,7 @@ using Random Forest Learner node and Random Forest Predictor node.
 </p>
 
 # Conclusion
-In summary, using the Random Forest model gives the best accuracy with a score of 94.129% Error: 5.871% in an 80:20 split, Random Forest model fit this data best.
+In summary, using the Random Forest model gives the best accuracy with a score of 94.129% Error: 5.871%, Random Forest model fit this data best.
 <p float="left">
  <img src="img/random.png" alt="image" width="40%"/> 
 </p>
