@@ -47,44 +47,32 @@ knime
 <p float="left">
  <img src="img/csv.png" alt="image" width="20%"/> 
 </p>
-using CSV Reader node for access data.
-
-
+using CSV Reader node for access data.<br>
 *2.Data Cleaning*
 <p float="left">
  <img src="img/2.png" alt="image" width="40%"> 
 </p>
-Converts numbers in a column (or a set of columns) to strings. I use Column filter to remove columns that not important for use and use Partitioning to divide information, The first is for the ML to learn and the other is for the ML to test.
-
-
+Converts numbers in a column (or a set of columns) to strings. I use Column filter to remove columns that not important for use and use Partitioning to divide information, The first is for the ML to learn and the other is for the ML to test.<br>
 *3.classification model (Naive Bayes model)*
 <p float="left">
  <img src="img/3.png" alt="image" width="40%"/> 
 </p>
-using Naive Bayes Learner node and Naive Bayes Predictor node.
-
-
+using Naive Bayes Learner node and Naive Bayes Predictor node.<br>
 *4.classification model (Decision Tree model)*
 <p float="left">
  <img src="img/4.png" alt="image" width="40%"/> 
 </p>
-using Decision Tree Learner node and Decision Tree Predictor node.
-
-
+using Decision Tree Learner node and Decision Tree Predictor node.<br>
 *5.classification model (Logistic Regression model)*
 <p float="left">
  <img src="img/5.png" alt="image" width="40%"/> 
 </p>
-using Logistic Regression Learner node and Logistic Regression Predictor node.
-
-
+using Logistic Regression Learner node and Logistic Regression Predictor node.<br>
 *6.classification model (Random Forest model)*
 <p float="left">
  <img src="img/6.png" alt="image" width="40%"/> 
 </p>
-using Random Forest Learner node and Random Forest Predictor node.
-
-
+using Random Forest Learner node and Random Forest Predictor node.<br>
 *7.score of each classification model*<br>
 -Naive Bayes model
 <p float="left">
@@ -110,6 +98,5 @@ In summary, using the Random Forest model gives the best accuracy with a score o
 </p>
 
 # Member name
--Nurhaya Benraheem 632431008
-
+-Nurhaya Benraheem 632431008<br>
 -Waenurhuda Hayeewaeming 632431004
