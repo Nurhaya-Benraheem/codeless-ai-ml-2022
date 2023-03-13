@@ -4,6 +4,7 @@
 The project is a classification type project using a Stroke Prediction Dataset on Kaggle.
 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
 In this project, we will determine which machine learning algorithm will be useful with this dataset.
