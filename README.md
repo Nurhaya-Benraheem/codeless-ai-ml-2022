@@ -48,6 +48,7 @@ knime
  <img src="img/csv.png" alt="image" width="20%"/> 
 </p>
 using CSV Reader node for access data.<br>
+
 *2.Data Cleaning*
 <p float="left">
  <img src="img/2.png" alt="image" width="40%"> 
