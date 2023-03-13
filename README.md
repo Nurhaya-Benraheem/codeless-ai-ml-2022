@@ -54,7 +54,7 @@ using CSV Reader node for access data.
 <p float="left">
  <img src="img/2.png" alt="image" width="40%"> 
 </p>
-Converts numbers in a column (or a set of columns) to strings. I use Column filter to remove columns that I don't need or are not important for use and use Partitioning to divide information, The first is for the ML to learn and the other is for the ML to test.
+Converts numbers in a column (or a set of columns) to strings. I use Column filter to remove columns that not important for use and use Partitioning to divide information, The first is for the ML to learn and the other is for the ML to test.
 
 
 *3.classification model (Naive Bayes model)*
