@@ -86,7 +86,7 @@ using Random Forest Learner node and Random Forest Predictor node.
 </p>
 -Decision Tree model
 <p float="left">
- <img src="decision tree.png" alt="image" width="50%"/> 
+ <img src="img/decision tree.png" alt="image" width="50%"/> 
 </p>
 -Logistic Regression model
 <p float="left">
