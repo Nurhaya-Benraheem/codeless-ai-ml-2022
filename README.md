@@ -49,7 +49,7 @@ knime
 </p>
 using CSV Reader node for access data.
 
-*2.Data Cleaning/*
+*2.Data Cleaning*
 <p float="left">
  <img src="2.png" alt="image" width="50%"> 
 </p>
