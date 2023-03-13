@@ -105,4 +105,5 @@ In summary, using the Random Forest model gives the best accuracy with a score o
 
 # Member name
 -Nurhaya Benraheem 632431008
+
 -Waenurhuda Hayeewaeming 632431004
