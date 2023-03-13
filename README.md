@@ -17,21 +17,33 @@ knime
 
 # Nodes being used in KNIME
 -CSV Reader
+
 -Number to String
+
 -Column Filter 
+
 -Partitioning
+
 -Naive Bayes Learner
+
 -Naive Bayes Predictor
+
 -Decision Tree Learner
+
 -Decision Tree Predictor
+
 -Logistic Regression Learner
+
 -Logistic Regression Predictor
+
 -Random Forest Learner
+
 -Random Forest Predictor
+
 -Scorer 
 
 # Model
-*1.Our dataset is in CSV format, so we need a CSV reader node to access it/*
+*1.Our dataset is in CSV format, so we need a CSV reader node to access it*
 <p float="left">
  <img src="csv.png" alt="image" width="50%"/> 
 </p>
@@ -39,29 +51,29 @@ using CSV Reader node for access data.
 
 *2.Data Cleaning/*
 <p float="left">
- <img src="2.png" alt="image" width="50%"/> 
+ <img src="2.png" alt="image" width="50%"> 
 </p>
 Converts numbers in a column (or a set of columns) to strings. I use Column filter to remove columns that I don't need or are not important for use and use Partitioning to divide information, The first is for the ML to learn and the other is for the ML to test.
 
-*3.classification model (Naive Bayes model)/*
+*3.classification model (Naive Bayes model)*
 <p float="left">
  <img src="3.png" alt="image" width="50%"/> 
 </p>
 using Naive Bayes Learner node and Naive Bayes Predictor node.
 
-*4.classification model (Decision Tree model)/*
+*4.classification model (Decision Tree model)*
 <p float="left">
  <img src="img/4.png" alt="image" width="50%"/> 
 </p>
 using Decision Tree Learner node and Decision Tree Predictor node.
 
-*5.classification model (Logistic Regression model)/*
+*5.classification model (Logistic Regression model)*
 <p float="left">
  <img src="5.png" alt="image" width="50%"/> 
 </p>
 using Logistic Regression Learner node and Logistic Regression Predictor node.
 
-*6.classification model (Random Forest model)/*
+*6.classification model (Random Forest model)*
 <p float="left">
  <img src="6.png" alt="image" width="50%"/> 
 </p>
